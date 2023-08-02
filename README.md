@@ -1,11 +1,11 @@
 ### MARLO TA AQ 🥷
 
-meu nome é marlon do pcc
+meu nome é marlon henrique de oliveira 
 
-- to estudando no alura 
-- estou ficando brabo no java
-- uso esse espaço pa fica zica veinhu
+- estou estudando no alura 
+- estou me desenvolvendo na linguagem JavaScript
+- ustilizo esse espaçopara minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### se entra em contato comigo 📧
+### Você pode entra em contato comigo 📫
 
 - rickxlt (meu insta🔥)
