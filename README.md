@@ -10,4 +10,4 @@ meu nome é marlon henrique de oliveira
 
 - rickxlt (meu insta🔥🥷)
 
-- [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aluraonline/)
+- [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/rickxlt/)
